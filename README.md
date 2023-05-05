@@ -1,28 +1,4 @@
-### Hi there 👋
-<p>
-  <span class="animate">H</span>
-  <span class="animate">e</span>
-  <span class="animate">l</span>
-  <span class="animate">l</span>
-  <span class="animate">o</span>
-</p>
-
-<style>
-.animate {
-  animation: appear 0.5s linear forwards;
-  opacity: 0;
-}
-
-@keyframes appear {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-</style>
-
+### Hi 👋 I'm Fredrick.
 <!--
 **FredrickNarshChiluba/FredrickNarshChiluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
