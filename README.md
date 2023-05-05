@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Fredrick.
 
-<p>ALX-Holberton Software Engineering Student. Doing hard things and solving problems makes me feel alive.</p>
+<p>An ALX-Holberton Software Engineering Student. Doing hard things and solving problems makes me feel alive.</p>
 
 <p>I am passionate about using technology to empower humanity in all aspects of life.</p>
 
