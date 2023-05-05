@@ -1,5 +1,9 @@
 ### Hi 👋 I'm Fredrick.
 
+<p>ALX-Holberton Software Engineering Student. Doing hard things and solving problems makes me feel alive.</p>
+
+<p>I am passionate about using technology to empower humanity in all aspects of life.</p>
+
 <!--
 **FredrickNarshChiluba/FredrickNarshChiluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,14 +35,8 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FredrickNarshChiluba&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@cfnarsh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FredrickNarshChiluba&icon=0&color=0)](https://visitcount.itsvg.in)
