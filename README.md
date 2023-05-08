@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Fredrick.
 
-<p>An ALX-Holberton Software Engineering Student.</p>
+<p>An ALX-Holberton Software Engineering Scholar.</p>
 
 <p>Doing hard things and solving problems makes me feel alive.</p>
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on aggregated SACCO system and institutions' student record management system<br>👯 I’m looking to collaborate on Software Engineering projects<br>🌱 I’m currently learning Reactjs<br>💬 Ask me about Software Engineering<br>⚡ Fun fact: Doing hard things and solving problems make me feel alive.<br>📫 How to reach me: <mailto:chilubafredricknarsh@gmail.com>
+🔭 I’m currently working on aggregated SACCO system and institutions' student record management system<br>👯 I’m looking to collaborate on Software Engineering projects<br>🌱 I’m currently learning Reactjs and Flutter fontend technologies<br>💬 Ask me about Software Engineering<br>⚡ Fun fact: Doing hard things and solving problems make me feel alive.<br>📫 How to reach me: <mailto:chilubafredricknarsh@gmail.com>
 
 
 ## 🌐 Socials:
