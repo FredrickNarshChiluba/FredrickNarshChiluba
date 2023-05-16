@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=FredrickNarshChiluba&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  ### I am done talking. Let's code
+</>
