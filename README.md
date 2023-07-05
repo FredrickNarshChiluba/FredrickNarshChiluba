@@ -4,7 +4,7 @@
 
 <p>Doing hard things and solving problems makes me feel alive.</p>
 
-<p>I am passionate about using technology to empower humanity in all aspects of life.</p>
+<p>I am passionate about using technology to provide free education for all.</p>
 
 <!--
 **FredrickNarshChiluba/FredrickNarshChiluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on JEBA SACCOs &  VSLAs MIS PROJECT and Billbrain Records Management System<br>👯 I’m looking to collaborate on Software Engineering projects<br>🌱 I’m currently learning Reactjs and Flutter fontend technologies<br>💬 Ask me about Software Engineering<br>⚡ Fun fact: Doing hard things and solving problems make me feel alive.<br>📫 How to reach me: <mailto:chilubafredricknarsh@gmail.com>
+🔭 I’m currently working on JEBA SACCOs, VSLAs, and Investment Clubs MIS PROJECT as a backend engineer<br>👯 I’m looking to collaborate on Software Engineering projects<br>🌱 I’m currently learning Reactjs and Flutter fontend technologies<br>💬 Ask me about Software Engineering<br>⚡ Fun fact: Doing hard things and solving problems make me feel alive.<br>📫 How to reach me: <mailto:chilubafredricknarsh@gmail.com>
 
 
 ## 🌐 Socials:
