@@ -1,10 +1,10 @@
-### Hi 👋 I'm Fredrick.
+### Hi 👋 my name is Chiluba.
 
 <p>An ALX-Holberton Software Engineering Scholar.</p>
 
 <p>Doing hard things and solving problems makes me feel alive.</p>
 
-<p>I am passionate about using technology to provide free education for all.</p>
+<p>I am passionate about using technology to empower humanity.</p>
 
 <!--
 **FredrickNarshChiluba/FredrickNarshChiluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
