@@ -1,10 +1,12 @@
 ### Hi 👋 my name is Chiluba.
 
-<p>I am a software engineering graduate from the prestigous Makerere University, A mastercard foundation scholar and an ALX-Holberton Software Engineering Scholar.</p>
+<p>I am a software engineering graduate from the prestigous Makerere University, A mastercard foundation scholar alumnus and an ALX-Holberton Software Engineering Scholar.</p>
 
 <p>Doing hard things and solving problems makes me feel alive.</p>
 
 <p>I am passionate about using technology to empower humanity.</p>
+
+<p> I am at the center of Technology, Innovation and Entrepreneurship</p>
 
 <!--
 **FredrickNarshChiluba/FredrickNarshChiluba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
