@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on JEBA SACCOs, VSLAs, and Investment Clubs MIS PROJECT as a backend engineer<br>👯 I’m looking to collaborate on Software Engineering projects<br>🌱 I’m currently learning Reactjs and Flutter fontend technologies<br>💬 Ask me about Software Engineering<br>⚡ Fun fact: Doing hard things and solving problems make me feel alive.<br>📫 How to reach me: <mailto:chilubafredricknarsh@gmail.com>
+🔭 I’m currently working on Jeba Pesa Financial technology as backend engineer, DevOps Engineer and team lead<br>👯 I’m looking to collaborate on Software Engineering projects<br>🌱 I’m currently learning Reactjs and Flutter fontend technologies<br>💬 Ask me about Software Engineering<br>⚡ Fun fact: Doing hard things and solving problems make me feel alive.<br>📫 How to reach me: <mailto:chilubafredricknarsh@gmail.com>
 
 
 ## 🌐 Socials:
