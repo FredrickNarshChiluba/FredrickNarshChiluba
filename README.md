@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Chiluba.
 
-<p>An ALX-Holberton Software Engineering Scholar.</p>
+<p>I am a software engineering graduate from the prestigous Makerere University, A mastercard foundation scholar and an ALX-Holberton Software Engineering Scholar.</p>
 
 <p>Doing hard things and solving problems makes me feel alive.</p>
 
